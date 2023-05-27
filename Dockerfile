@@ -23,8 +23,6 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN unzip VPremium.zip
-
 RUN npm install && npm install && npm install && npm install
 
 RUN yarn install && npm install && yarn install && npm install
