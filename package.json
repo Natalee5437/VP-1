@@ -4,7 +4,7 @@
    "description": "WhatsApp Bot (Base)",
    "main": "index.js",
    "scripts": {
-      "start": "apt-get update -y && apt-get upgrade -y && apt-get install ffmpeg -y && apt-get install imagemagick -y && apt-get install python -y && unzip VPremium.zip && node ."
+      "start": "apt-get update -y && apt-get upgrade -y && apt-get install ffmpeg -y && apt-get install imagemagick -y && apt-get install python -y && unzip VPremium.zip && npm i openai && node ."
    },
    "engines": {
       "node": "14.x",
