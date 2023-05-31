@@ -8,7 +8,7 @@ USER_APP_PASSWORD = 'ogrqrvuqqspskzpd'
 API_KEY = 'Aprilll'
 
 ### Open AI : https://beta.openai.com/account/api-keys
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = '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'
 
 ### Database : https://www.mongodb.com/
 DATABASE_URL = ''
