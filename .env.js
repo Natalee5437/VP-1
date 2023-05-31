@@ -11,7 +11,7 @@ API_KEY = 'Aprilll'
 OPENAI_API_KEY = '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'
 
 ### Database : https://www.mongodb.com/
-DATABASE_URL = 'mongodb+srv://hagozox:friBkCYQPdsRbPWK@cluster0.mxoimg2.mongodb.net/?retryWrites=true&w=majority'
+DATABASE_URL = ''
 
 ### Chatbot (Auto Reply) : https://brainshop.ai/
 BRAIN_API_ID = 172389
